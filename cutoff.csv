@@ -1,0 +1,361 @@
+year,round_no,region,category,course,rank,reservation
+2023,1,DL,general,Bio-Technology,57216,0
+2023,1,DL,general,Computer Science and Engineering,4695,0
+2023,1,DL,general,Computer Science and Engineering with AI,3075,0
+2023,1,DL,general,Computer Science and Engineering with DS,7206,0
+2023,1,DL,general,Electrical Engineering,27305,0
+2023,1,DL,general,Electronics and Communication Engineering,20472,0
+2023,1,DL,general,Electronics and Communication Engineering with IOT,16802,0
+2023,1,DL,general,Information Technology,9905,0
+2023,1,DL,general,Information Technology with Network Security,12733,0
+2023,1,DL,general,Instrumentation and Control Engineering,32695,0
+2023,1,DL,general,Mathematics and Computing,13835,0
+2023,1,DL,general,Mechanical Engineering,42080,0
+2023,1,OS,general,Bio-Technology,13837,0
+2023,1,OS,general,Computer Science and Engineering,1896,0
+2023,1,OS,general,Computer Science and Engineering with AI,1540,0
+2023,1,OS,general,Computer Science and Engineering with DS,2602,0
+2023,1,OS,general,Electrical Engineering,7106,0
+2023,1,OS,general,Electronics and Communication Engineering,5172,0
+2023,1,OS,general,Electronics and Communication Engineering with IOT,4827,0
+2023,1,OS,general,Information Technology,3022,0
+2023,1,OS,general,Information Technology with Network Security,3594,0
+2023,1,OS,general,Instrumentation and Control Engineering,9476,0
+2023,1,OS,general,Mathematics and Computing,3684,0
+2023,1,OS,general,Mechanical Engineering,11320,0
+2023,2,DL,general,Bio-Technology,66986,0
+2023,2,DL,general,Computer Science and Engineering,7659,0
+2023,2,DL,general,Computer Science and Engineering with AI,4923,0
+2023,2,DL,general,Computer Science and Engineering with DS,10974,0
+2023,2,DL,general,Electrical Engineering,32333,0
+2023,2,DL,general,Electronics and Communication Engineering,24265,0
+2023,2,DL,general,Electronics and Communication Engineering with IOT,20364,0
+2023,2,DL,general,Information Technology,13075,0
+2023,2,DL,general,Information Technology with Network Security,15751,0
+2023,2,DL,general,Instrumentation and Control Engineering,38421,0
+2023,2,DL,general,Mathematics and Computing,18569,0
+2023,2,DL,general,Mechanical Engineering,47444,0
+2023,2,OS,general,Bio-Technology,17789,0
+2023,2,OS,general,Computer Science and Engineering,2946,0
+2023,2,OS,general,Computer Science and Engineering with AI,2941,0
+2023,2,OS,general,Computer Science and Engineering with DS,3543,0
+2023,2,OS,general,Electrical Engineering,9238,0
+2023,2,OS,general,Electronics and Communication Engineering,7117,0
+2023,2,OS,general,Electronics and Communication Engineering with IOT,6587,0
+2023,2,OS,general,Information Technology,4416,0
+2023,2,OS,general,Information Technology with Network Security,5009,0
+2023,2,OS,general,Instrumentation and Control Engineering,11963,0
+2023,2,OS,general,Mathematics and Computing,5142,0
+2023,2,OS,general,Mechanical Engineering,13976,0
+2023,3,DL,general,Bio-Technology,67028,0
+2023,3,DL,general,Computer Science and Engineering,7659,0
+2023,3,DL,general,Computer Science and Engineering with AI,4923,0
+2023,3,DL,general,Computer Science and Engineering with DS,10974,0
+2023,3,DL,general,Electrical Engineering,32841,0
+2023,3,DL,general,Electronics and Communication Engineering,24265,0
+2023,3,DL,general,Electronics and Communication Engineering with IOT,20364,0
+2023,3,DL,general,Information Technology,13075,0
+2023,3,DL,general,Information Technology with Network Security,15751,0
+2023,3,DL,general,Instrumentation and Control Engineering,38756,0
+2023,3,DL,general,Mathematics and Computing,18569,0
+2023,3,DL,general,Mechanical Engineering,47480,0
+2023,3,OS,general,Bio-Technology,19759,0
+2023,3,OS,general,Computer Science and Engineering,2966,0
+2023,3,OS,general,Computer Science and Engineering with AI,2941,0
+2023,3,OS,general,Computer Science and Engineering with DS,3749,0
+2023,3,OS,general,Electrical Engineering,9804,0
+2023,3,OS,general,Electronics and Communication Engineering,7679,0
+2023,3,OS,general,Electronics and Communication Engineering with IOT,7444,0
+2023,3,OS,general,Information Technology,402,0
+2023,3,OS,general,Information Technology with Network Security,5981,0
+2023,3,OS,general,Instrumentation and Control Engineering,13347,0
+2023,3,OS,general,Mathematics and Computing,6386,0
+2023,3,OS,general,Mechanical Engineering,14740,0
+2023,4,DL,general,Bio-Technology,68337,0
+2023,4,DL,general,Computer Science and Engineering,8042,0
+2023,4,DL,general,Computer Science and Engineering with AI,5310,0
+2023,4,DL,general,Computer Science and Engineering with DS,10974,0
+2023,4,DL,general,Electrical Engineering,33148,0
+2023,4,DL,general,Electronics and Communication Engineering,24491,0
+2023,4,DL,general,Electronics and Communication Engineering with IOT,20472,0
+2023,4,DL,general,Information Technology,13335,0
+2023,4,DL,general,Information Technology with Network Security,16228,0
+2023,4,DL,general,Instrumentation and Control Engineering,39973,0
+2023,4,DL,general,Mathematics and Computing,18964,0
+2023,4,DL,general,Mechanical Engineering,48993,0
+2023,4,OS,general,Bio-Technology,21532,0
+2023,4,OS,general,Computer Science and Engineering,3094,0
+2023,4,OS,general,Computer Science and Engineering with AI,2967,0
+2023,4,OS,general,Computer Science and Engineering with DS,4310,0
+2023,4,OS,general,Electrical Engineering,10548,0
+2023,4,OS,general,Electronics and Communication Engineering,8489,0
+2023,4,OS,general,Electronics and Communication Engineering with IOT,8092,0
+2023,4,OS,general,Information Technology,4854,0
+2023,4,OS,general,Information Technology with Network Security,6279,0
+2023,4,OS,general,Instrumentation and Control Engineering,13711,0
+2023,4,OS,general,Mathematics and Computing,6852,0
+2023,4,OS,general,Mechanical Engineering,15749,0
+2023,5,DL,general,Bio-Technology,83392,0
+2023,5,DL,general,Computer Science and Engineering,10174,0
+2023,5,DL,general,Computer Science and Engineering with AI,6254,0
+2023,5,DL,general,Computer Science and Engineering with DS,13019,0
+2023,5,DL,general,Electrical Engineering,40849,0
+2023,5,DL,general,Electronics and Communication Engineering,29503,0
+2023,5,DL,general,Electronics and Communication Engineering with IOT,24463,0
+2023,5,DL,general,Information Technology,16910,0
+2023,5,DL,general,Information Technology with Network Security,19799,0
+2023,5,DL,general,Instrumentation and Control Engineering,49807,0
+2023,5,DL,general,Mathematics and Computing,22419,0
+2023,5,DL,general,Mechanical Engineering,59268,0
+2023,5,OS,general,Bio-Technology,22214,0
+2023,5,OS,general,Computer Science and Engineering,3994,0
+2023,5,OS,general,Computer Science and Engineering with AI,3255,0
+2023,5,OS,general,Computer Science and Engineering with DS,4882,0
+2023,5,OS,general,Electrical Engineering,12152,0
+2023,5,OS,general,Electronics and Communication Engineering,9867,0
+2023,5,OS,general,Electronics and Communication Engineering with IOT,9269,0
+2023,5,OS,general,Information Technology,6279,0
+2023,5,OS,general,Information Technology with Network Security,7385,0
+2023,5,OS,general,Instrumentation and Control Engineering,14685,0
+2023,5,OS,general,Mathematics and Computing,8047,0
+2023,5,OS,general,Mechanical Engineering,17031,1
+2023,1,DL,ews,Bio-Technology,98471,1
+2023,1,DL,ews,Computer Science and Engineering,17605,1
+2023,1,DL,ews,Computer Science and Engineering with AI,11057,1
+2023,1,DL,ews,Computer Science and Engineering with DS,20532,1
+2023,1,DL,ews,Electrical Engineering,54049,1
+2023,1,DL,ews,Electronics and Communication Engineering,41102,1
+2023,1,DL,ews,Electronics and Communication Engineering with IOT,39128,1
+2023,1,DL,ews,Information Technology,24844,1
+2023,1,DL,ews,Information Technology with Network Security,26469,1
+2023,1,DL,ews,Instrumentation and Control Engineering,56439,1
+2023,1,DL,ews,Mathematics and Computing,32188,1
+2023,1,DL,ews,Mechanical Engineering,71168,1
+2023,1,OS,ews,Bio-Technology,19150,1
+2023,1,OS,ews,Computer Science and Engineering,3453,1
+2023,1,OS,ews,Computer Science and Engineering with AI,3287,1
+2023,1,OS,ews,Computer Science and Engineering with DS,5897,1
+2023,1,OS,ews,Electrical Engineering,10503,1
+2023,1,OS,ews,Electronics and Communication Engineering,9322,1
+2023,1,OS,ews,Electronics and Communication Engineering with IOT,7783,1
+2023,1,OS,ews,Information Technology,5692,1
+2023,1,OS,ews,Information Technology with Network Security,6602,1
+2023,1,OS,ews,Instrumentation and Control Engineering,12781,1
+2023,1,OS,ews,Mathematics and Computing,6748,1
+2023,1,OS,ews,Mechanical Engineering,14306,1
+2023,2,DL,ews,Bio-Technology,112189,1
+2023,2,DL,ews,Computer Science and Engineering,19887,1
+2023,2,DL,ews,Computer Science and Engineering with AI,14062,1
+2023,2,DL,ews,Computer Science and Engineering with DS,22775,1
+2023,2,DL,ews,Electrical Engineering,56096,1
+2023,2,DL,ews,Electronics and Communication Engineering,45625,1
+2023,2,DL,ews,Electronics and Communication Engineering with IOT,39917,1
+2023,2,DL,ews,Information Technology,26623,1
+2023,2,DL,ews,Information Technology with Network Security,30915,1
+2023,2,DL,ews,Instrumentation and Control Engineering,63662,1
+2023,2,DL,ews,Mathematics and Computing,34819,1
+2023,2,DL,ews,Mechanical Engineering,82044,1
+2023,2,OS,ews,Bio-Technology,21078,1
+2023,2,OS,ews,Computer Science and Engineering,5091,1
+2023,2,OS,ews,Computer Science and Engineering with AI,4840,1
+2023,2,OS,ews,Computer Science and Engineering with DS,6175,1
+2023,2,OS,ews,Electrical Engineering,13356,1
+2023,2,OS,ews,Electronics and Communication Engineering,11905,1
+2023,2,OS,ews,Electronics and Communication Engineering with IOT,10229,1
+2023,2,OS,ews,Information Technology,7184,1
+2023,2,OS,ews,Information Technology with Network Security,7701,1
+2023,2,OS,ews,Instrumentation and Control Engineering,17007,1
+2023,2,OS,ews,Mathematics and Computing,9516,1
+2023,2,OS,ews,Mechanical Engineering,17341,1
+2023,3,DL,ews,Bio-Technology,112189,1
+2023,3,DL,ews,Computer Science and Engineering,21517,1
+2023,3,DL,ews,Computer Science and Engineering with AI,14932,1
+2023,3,DL,ews,Computer Science and Engineering with DS,23602,1
+2023,3,DL,ews,Electrical Engineering,56096,1
+2023,3,DL,ews,Electronics and Communication Engineering,45625,1
+2023,3,DL,ews,Electronics and Communication Engineering with IOT,39917,1
+2023,3,DL,ews,Information Technology,26623,1
+2023,3,DL,ews,Information Technology with Network Security,30915,1
+2023,3,DL,ews,Instrumentation and Control Engineering,64801,1
+2023,3,DL,ews,Mathematics and Computing,34819,1
+2023,3,DL,ews,Mechanical Engineering,82044,1
+2023,3,OS,ews,Bio-Technology,23540,1
+2023,3,OS,ews,Computer Science and Engineering,5091,1
+2023,3,OS,ews,Computer Science and Engineering with AI,4840,1
+2023,3,OS,ews,Computer Science and Engineering with DS,6453,1
+2023,3,OS,ews,Electrical Engineering,14266,1
+2023,3,OS,ews,Electronics and Communication Engineering,12019,1
+2023,3,OS,ews,Electronics and Communication Engineering with IOT,11905,1
+2023,3,OS,ews,Information Technology,7184,1
+2023,3,OS,ews,Information Technology with Network Security,7701,1
+2023,3,OS,ews,Instrumentation and Control Engineering,17341,1
+2023,3,OS,ews,Mathematics and Computing,9516,1
+2023,3,OS,ews,Mechanical Engineering,21625,1
+2023,4,DL,ews,Bio-Technology,112189,1
+2023,4,DL,ews,Computer Science and Engineering,21517,1
+2023,4,DL,ews,Computer Science and Engineering with AI,14932,1
+2023,4,DL,ews,Computer Science and Engineering with DS,23602,1
+2023,4,DL,ews,Electrical Engineering,56022,1
+2023,4,DL,ews,Electronics and Communication Engineering,45625,1
+2023,4,DL,ews,Electronics and Communication Engineering with IOT,39917,1
+2023,4,DL,ews,Information Technology,26952,1
+2023,4,DL,ews,Information Technology with Network Security,30915,1
+2023,4,DL,ews,Instrumentation and Control Engineering,64801,1
+2023,4,DL,ews,Mathematics and Computing,35658,1
+2023,4,DL,ews,Mechanical Engineering,82044,1
+2023,4,OS,ews,Bio-Technology,23722,1
+2023,4,OS,ews,Computer Science and Engineering,5091,1
+2023,4,OS,ews,Computer Science and Engineering with AI,4840,1
+2023,4,OS,ews,Computer Science and Engineering with DS,7322,1
+2023,4,OS,ews,Electrical Engineering,15569,1
+2023,4,OS,ews,Electronics and Communication Engineering,13253,1
+2023,4,OS,ews,Electronics and Communication Engineering with IOT,11905,1
+2023,4,OS,ews,Information Technology,8015,1
+2023,4,OS,ews,Information Technology with Network Security,9246,1
+2023,4,OS,ews,Instrumentation and Control Engineering,17341,1
+2023,4,OS,ews,Mathematics and Computing,9516,1
+2023,4,OS,ews,Mechanical Engineering,22779,1
+2023,5,DL,ews,Bio-Technology,118403,1
+2023,5,DL,ews,Computer Science and Engineering,22139,1
+2023,5,DL,ews,Computer Science and Engineering with AI,16524,1
+2023,5,DL,ews,Computer Science and Engineering with DS,24790,1
+2023,5,DL,ews,Electrical Engineering,61107,1
+2023,5,DL,ews,Electronics and Communication Engineering,48456,1
+2023,5,DL,ews,Electronics and Communication Engineering with IOT,44337,1
+2023,5,DL,ews,Information Technology,30757,1
+2023,5,DL,ews,Information Technology with Network Security,31684,1
+2023,5,DL,ews,Instrumentation and Control Engineering,68196,1
+2023,5,DL,ews,Mathematics and Computing,38615,1
+2023,5,DL,ews,Mechanical Engineering,87444,1
+2023,5,OS,ews,Bio-Technology,23722,1
+2023,5,OS,ews,Computer Science and Engineering,7622,1
+2023,5,OS,ews,Computer Science and Engineering with AI,7590,1
+2023,5,OS,ews,Computer Science and Engineering with DS,7934,1
+2023,5,OS,ews,Electrical Engineering,16770,1
+2023,5,OS,ews,Electronics and Communication Engineering,13356,1
+2023,5,OS,ews,Electronics and Communication Engineering with IOT,11905,1
+2023,5,OS,ews,Information Technology,9010,1
+2023,5,OS,ews,Information Technology with Network Security,10273,1
+2023,5,OS,ews,Instrumentation and Control Engineering,19211,1
+2023,5,OS,ews,Mathematics and Computing,10906,1
+2023,5,OS,ews,Mechanical Engineering,23059,1
+2023,1,DL,obc,Bio-Technology,188696,1
+2023,1,DL,obc,Computer Science and Engineering,33144,1
+2023,1,DL,obc,Computer Science and Engineering with AI,20608,1
+2023,1,DL,obc,Computer Science and Engineering with DS,39479,1
+2023,1,DL,obc,Electrical Engineering,114907,1
+2023,1,DL,obc,Electronics and Communication Engineering,87288,1
+2023,1,DL,obc,Electronics and Communication Engineering with IOT,75527,1
+2023,1,DL,obc,Information Technology,50433,1
+2023,1,DL,obc,Information Technology with Network Security,57019,1
+2023,1,DL,obc,Instrumentation and Control Engineering,127148,1
+2023,1,DL,obc,Mathematics and Computing,66436,1
+2023,1,DL,obc,Mechanical Engineering,147446,1
+2023,1,OS,obc,Bio-Technology,25820,1
+2023,1,OS,obc,Computer Science and Engineering,7450,1
+2023,1,OS,obc,Computer Science and Engineering with AI,7675,1
+2023,1,OS,obc,Computer Science and Engineering with DS,8456,1
+2023,1,OS,obc,Electrical Engineering,16872,1
+2023,1,OS,obc,Electronics and Communication Engineering,13613,1
+2023,1,OS,obc,Electronics and Communication Engineering with IOT,14092,1
+2023,1,OS,obc,Information Technology,9019,1
+2023,1,OS,obc,Information Technology with Network Security,9982,1
+2023,1,OS,obc,Instrumentation and Control Engineering,18091,1
+2023,1,OS,obc,Mathematics and Computing,10994,1
+2023,1,OS,obc,Mechanical Engineering,22571,1
+2023,2,DL,obc,Bio-Technology,223545,1
+2023,2,DL,obc,Computer Science and Engineering,41261,1
+2023,2,DL,obc,Computer Science and Engineering with AI,26717,1
+2023,2,DL,obc,Computer Science and Engineering with DS,50433,1
+2023,2,DL,obc,Electrical Engineering,138069,1
+2023,2,DL,obc,Electronics and Communication Engineering,107801,1
+2023,2,DL,obc,Electronics and Communication Engineering with IOT,89915,1
+2023,2,DL,obc,Information Technology,60644,1
+2023,2,DL,obc,Information Technology with Network Security,66956,1
+2023,2,DL,obc,Instrumentation and Control Engineering,149632,1
+2023,2,DL,obc,Mathematics and Computing,80727,1
+2023,2,DL,obc,Mechanical Engineering,178482,1
+2023,2,OS,obc,Bio-Technology,29667,1
+2023,2,OS,obc,Computer Science and Engineering,10014,1
+2023,2,OS,obc,Computer Science and Engineering with AI,9019,1
+2023,2,OS,obc,Computer Science and Engineering with DS,11969,1
+2023,2,OS,obc,Electrical Engineering,21392,1
+2023,2,OS,obc,Electronics and Communication Engineering,16209,1
+2023,2,OS,obc,Electronics and Communication Engineering with IOT,15740,1
+2023,2,OS,obc,Information Technology,13385,1
+2023,2,OS,obc,Information Technology with Network Security,13126,1
+2023,2,OS,obc,Instrumentation and Control Engineering,22696,1
+2023,2,OS,obc,Mathematics and Computing,15367,1
+2023,2,OS,obc,Mechanical Engineering,25248,1
+2023,3,DL,obc,Bio-Technology,227778,1
+2023,3,DL,obc,Computer Science and Engineering,42943,1
+2023,3,DL,obc,Computer Science and Engineering with AI,26717,1
+2023,3,DL,obc,Computer Science and Engineering with DS,50433,1
+2023,3,DL,obc,Electrical Engineering,138069,1
+2023,3,DL,obc,Electronics and Communication Engineering,107801,1
+2023,3,DL,obc,Electronics and Communication Engineering with IOT,90743,1
+2023,3,DL,obc,Information Technology,60644,1
+2023,3,DL,obc,Information Technology with Network Security,67619,1
+2023,3,DL,obc,Instrumentation and Control Engineering,149632,1
+2023,3,DL,obc,Mathematics and Computing,80727,1
+2023,3,DL,obc,Mechanical Engineering,178465,1
+2023,3,OS,obc,Bio-Technology,31257,1
+2023,3,OS,obc,Computer Science and Engineering,10157,1
+2023,3,OS,obc,Computer Science and Engineering with AI,9019,1
+2023,3,OS,obc,Computer Science and Engineering with DS,12399,1
+2023,3,OS,obc,Electrical Engineering,22344,1
+2023,3,OS,obc,Electronics and Communication Engineering,17934,1
+2023,3,OS,obc,Electronics and Communication Engineering with IOT,16617,1
+2023,3,OS,obc,Information Technology,14182,1
+2023,3,OS,obc,Information Technology with Network Security,15104,1
+2023,3,OS,obc,Instrumentation and Control Engineering,23709,1
+2023,3,OS,obc,Mathematics and Computing,16140,1
+2023,3,OS,obc,Mechanical Engineering,27218,1
+2023,4,DL,obc,Bio-Technology,239338,1
+2023,4,DL,obc,Computer Science and Engineering,42943,1
+2023,4,DL,obc,Computer Science and Engineering with AI,26717,1
+2023,4,DL,obc,Computer Science and Engineering with DS,50433,1
+2023,4,DL,obc,Electrical Engineering,138069,1
+2023,4,DL,obc,Electronics and Communication Engineering,108976,1
+2023,4,DL,obc,Electronics and Communication Engineering with IOT,90743,1
+2023,4,DL,obc,Information Technology,60644,1
+2023,4,DL,obc,Information Technology with Network Security,67619,1
+2023,4,DL,obc,Instrumentation and Control Engineering,150303,1
+2023,4,DL,obc,Mathematics and Computing,80727,1
+2023,4,DL,obc,Mechanical Engineering,179420,1
+2023,4,OS,obc,Bio-Technology,34249,1
+2023,4,OS,obc,Computer Science and Engineering,11958,1
+2023,4,OS,obc,Computer Science and Engineering with AI,9131,1
+2023,4,OS,obc,Computer Science and Engineering with DS,12399,1
+2023,4,OS,obc,Electrical Engineering,22693,1
+2023,4,OS,obc,Electronics and Communication Engineering,18896,1
+2023,4,OS,obc,Electronics and Communication Engineering with IOT,18181,1
+2023,4,OS,obc,Information Technology,14680,1
+2023,4,OS,obc,Information Technology with Network Security,15286,1
+2023,4,OS,obc,Instrumentation and Control Engineering,24843,1
+2023,4,OS,obc,Mathematics and Computing,17279,1
+2023,4,OS,obc,Mechanical Engineering,27435,1
+2023,5,DL,obc,Bio-Technology,253835,1
+2023,5,DL,obc,Computer Science and Engineering,43286,1
+2023,5,DL,obc,Computer Science and Engineering with AI,26717,1
+2023,5,DL,obc,Computer Science and Engineering with DS,52064,1
+2023,5,DL,obc,Electrical Engineering,138069,1
+2023,5,DL,obc,Electronics and Communication Engineering,109170,1
+2023,5,DL,obc,Electronics and Communication Engineering with IOT,90743,1
+2023,5,DL,obc,Information Technology,60644,1
+2023,5,DL,obc,Information Technology with Network Security,70069,1
+2023,5,DL,obc,Instrumentation and Control Engineering,154198,1
+2023,5,DL,obc,Mathematics and Computing,81228,1
+2023,5,DL,obc,Mechanical Engineering,191382,1
+2023,5,OS,obc,Bio-Technology,38172,1
+2023,5,OS,obc,Computer Science and Engineering,14244,1
+2023,5,OS,obc,Computer Science and Engineering with AI,9405,1
+2023,5,OS,obc,Computer Science and Engineering with DS,14680,1
+2023,5,OS,obc,Electrical Engineering,24843,1
+2023,5,OS,obc,Electronics and Communication Engineering,21722,1
+2023,5,OS,obc,Electronics and Communication Engineering with IOT,20760,1
+2023,5,OS,obc,Information Technology,15740,1
+2023,5,OS,obc,Information Technology with Network Security,16617,1
+2023,5,OS,obc,Instrumentation and Control Engineering,27104,1
+2023,5,OS,obc,Mathematics and Computing,19208,1
+2023,5,OS,obc,Mechanical Engineering,29227,1
